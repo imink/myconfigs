@@ -1,0 +1,23 @@
+{
+    "workbench.colorTheme": "Oceanic Next",
+    "editor.tabSize": 2,
+    "editor.fontSize": 14,
+    "workbench.iconTheme": "vs-seti",
+    "vim.disableAnnoyingNeovimMessage": true,
+    "window.zoomLevel": 0,
+    "todohighlight.isEnable": true,
+    "todohighlight.isCaseSensitive": true,
+    "todohighlight.keywordsPattern": "TODO|FIXME|MARK",
+    "todohighlight.include": "{**/*.js,**/*.jsx,**/*.ts,**/*.tsx,**/*.html,**/*.php,**/*.css,**/*.scss}",
+    "todohighlight.exclude": "{**/node_modules/**,**/bower_components/**,**/dist/**,**/build/**,**/.vscode/**,**/_output/**,**/*.min.*,**/*.map}",
+    "todohighlight.maxFilesForSearch": 5120,
+    "todohighlight.toggleURI": false,
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "**/**/node_modules": true,
+        "**/.git": true
+    },
+    "window.reopenFolders": "all",
+    "window.openFoldersInNewWindow": "on"
+}
