@@ -1,2 +1,3 @@
-# vimrc
-vim config file
+# handy configs
+vim
+vscode
